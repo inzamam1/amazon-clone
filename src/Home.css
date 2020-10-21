@@ -1,4 +1,7 @@
 .home {
+  max-width: 1250px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .home__image {
