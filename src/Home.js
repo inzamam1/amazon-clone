@@ -12,14 +12,14 @@ function Home() {
       <div className="home__row">
         <Product
           id="123"
-          title="A book of heroes"
+          title="The fault in our Stars"
           price={11}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/41dr+Ay2zjL._SX326_BO1,204,203,200_.jpg"
         />
         <Product
           id="123"
-          title="A book of heroes"
+          title="The fault in our Stars"
           price={11}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/41dr+Ay2zjL._SX326_BO1,204,203,200_.jpg"
@@ -29,21 +29,21 @@ function Home() {
       <div className="home__row">
         <Product
           id="123"
-          title="A book of heroes"
+          title="The fault in our Stars"
           price={11}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/41dr+Ay2zjL._SX326_BO1,204,203,200_.jpg"
         />
         <Product
           id="123"
-          title="A book of heroes"
+          title="The fault in our Stars"
           price={11}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/41dr+Ay2zjL._SX326_BO1,204,203,200_.jpg"
         />
         <Product
           id="123"
-          title="A book of heroes"
+          title="The fault in our Stars"
           price={11}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/41dr+Ay2zjL._SX326_BO1,204,203,200_.jpg"
@@ -52,7 +52,7 @@ function Home() {
       <div className="product__row">
         <Product
           id="123"
-          title="A book of heroes"
+          title="The fault in our Stars"
           price={11}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/41dr+Ay2zjL._SX326_BO1,204,203,200_.jpg"
