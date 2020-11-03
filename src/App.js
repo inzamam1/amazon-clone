@@ -3,7 +3,6 @@ import "./App.css";
 import Header from "./Header";
 import Home from "./Home";
 import Checkout from "./Checkout";
-import Landing from "./landing";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 /*react-routes-route to pages without refreshing,it is must faster
 pages in format---localhost:3000/login*/
@@ -25,7 +24,8 @@ function App() {
             <Home />
           </Route>
           <Route path="/">
-            <Landing />
+            <Header />
+            <Home />
             {/*loads navbar component from Header file */}
             {/*Directs to Home component  */}
           </Route>
